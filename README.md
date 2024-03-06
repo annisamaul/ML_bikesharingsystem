@@ -1,4 +1,4 @@
- # Seoul Public Bike Demand Prediction
+ # Bike-Sharing Demand Prediction
 
 [The Seoul Public Bike (Ttareungyi)]([url](https://english.seoul.go.kr/service/movement/seoul-public-bike/1-seoul-public-bike/)) system is a bike-sharing service managed by the Seoul City Government in South Korea. It aims to provide sustainable and convenient transportation options for residents and tourists in Seoul. To optimize bicycle availability and meet user demand, the Seoul City government seeks to predict bicycle demand at different times using historical data on bike rentals.
 
